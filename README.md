@@ -1,9 +1,5 @@
 ### <h1 align="center">This are my "Test Cases" examples using Excel - FastTrackIT Dummy Site</h1>
 
-## Jira Bug Report/ Test Cases
-
-<img src = https://github.com/Mihai212/Assignments-From-FastTrackIT-Course/blob/main/Jira-%20Bug%20Reporting%20Assignment%20Rezolved.png>
-
 ## Test Case #1
 <img src= https://i.ibb.co/8BmPcjw/Test-Case-1.png>
 
