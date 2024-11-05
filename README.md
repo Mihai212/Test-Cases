@@ -1,6 +1,6 @@
 ### <h1 align="center">This are my "Test Cases" examples using Excel - FastTrackIT Dummy Site</h1>
 
-### Test Case #1
+## Test Case #1
 <img src= https://i.ibb.co/8BmPcjw/Test-Case-1.png>
 
 ## Test Case #2
